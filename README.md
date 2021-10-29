@@ -6,3 +6,6 @@ The script output somthing of the following shape:
 price^name^composition^weight^season^color^fabric_type^IroningSpecificity^FabricImageLink
 
 Past that to an Excel like software and use the "^" characters to divide the result into columns.
+
+Hockerty Website: https://www.hockerty.fr/fr/homme/chemise-sur-mesure/personalize?step=fabric
+Price in €, composition in %, weight in g/m²
